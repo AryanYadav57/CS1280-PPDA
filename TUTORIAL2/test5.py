@@ -1,7 +1,5 @@
-print("Hello, world!")  # Basic usage:
-#
-name = "Alice"
-age = 30
-print("Name:", name, "Age:", age)  # Printing multiple values:
-#
-print(f"My name is {name} and I am {age} years old.")
+def print_parameters(a, b, c):
+    print("1st param:", a)
+    print("2nd param:", b)
+    print("3rd param:", c)
+print_parameters(a=1, c=3, b=2)
