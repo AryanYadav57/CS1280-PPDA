@@ -1,7 +1,16 @@
-print(10)  # 10
-print(10.555)  # 10.555
-print("python")  # python
-print(5 + 3)  # 8 (Expressions are evaluated)
-print(1)  # 1
-print(1, 2)  # 1 2
-print(1, 2, 3)  # 1 2 3
+#No Arguments, No Return Value:
+def greet():
+    print("Hello!")
+greet()
+#No Arguments, With Return Value:
+def pi():
+    return 3.14
+print(pi())
+#With Arguments, No Return Value:
+def display(message):
+    print(message)
+display("Hello, World!")
+#With Arguments, With Return Value:
+def add(a, b):
+    return a + b
+print(add(5, 7))
