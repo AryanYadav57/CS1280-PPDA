@@ -1,5 +1,5 @@
-# This program demonstrates input and output.
-name = input("Enter your name: ") # Prompting for input
-print("Hello, " + name + "!") # Outputting the input value
-age = int(input("Enter your age: ")) # Type conversion to integer
-print("Next year, you will be " + str(age + 1) + " years old.") #string catenation
+def print_parameters(a=10, b=20, c=5):
+    print("a:", a)
+    print("b:", b)
+    print("c:", c)
+print_parameters(2)
