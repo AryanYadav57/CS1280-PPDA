@@ -1,0 +1,29 @@
+write a python program that converts temparature between celsius and fahrenheit the prograam should prompt the user to input a temparature value and select the conversion type (celcius to fahrenheit or fahrenheit to celcius). display the  result after conversion 
+
+modify the temparature converter program to include conversion between celcius, fahrenheit and kelvin, the user should be able to convert from any unit to the other two
+
+
+write a python program to find the largest of three numbers, the program should prompt the user to input three numbers and display the largest number among them.
+
+modify the program to allow the user to input five numbers and find the largest number among them
+
+write a python program that counts the number of words in a given string. the program should use a function to split the string and return the word count.
+
+Modify the word count program to also count the frequency of each word in the sentence. Return the word count and a dictionary showing the frequency of each word.
+
+write a program that performs additional operations on the list such as sorting and reversing the list, in addition, to insert,delete, and find operations
+
+write a python program to merge two dictionaries. the program should allow the user to input two dictionaries and merge them into one
+
+extend the dictionary merge the program to handle cases where the two dictionaries have overlapping keys, if a key exists in both dictionaries, the merged dictionary should add the values of the overlapping keys.
+
+file handling
+getting awareness about local and google drive folder and file access, remaining,copy, move files
+faculty will provide the instruction on how to organize the activities in google folder or in local system.
+note: no marks will be awarded
+
+wrrite a python program that creates a 3x3 NumPy array filled with random integers between 1 and 20. calculates the mean of the array, and replaces all the elements less than 10 with 0
+
+write a python program that creates two 3x3 matrices filled with randome integers between 1 and 10. perform matrix substraction, element-wise divisioin of both matrices
+
+create a pandas data frame from a list of dictinaries. the data represents information about products (products name, category, and price). add a new column that calculates the discounted price (90% of the original price) and display the DataFrame
